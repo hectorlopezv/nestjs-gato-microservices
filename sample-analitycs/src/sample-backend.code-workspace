@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../sample-backend"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../sample-communication"
+	}
+],
+  "settings": {}
+}
